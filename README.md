@@ -1,4 +1,4 @@
-# Madlibs Against Humanity
+# Madlibs
 
 
 Welcome to Madlibs, a place where users can create and review madlibs, and search based on category.
